@@ -1,5 +1,5 @@
 python==2.7
-Pillow==5.3.0
+Pillow==9.0.0
 pandas==0.24.2
 tensorflow-gpu==1.1.0
 opencv-python==3.3.0.9
